@@ -27,6 +27,7 @@ Clone this repository and install the required Python libraries:
 git clone [https://github.com/Eric524-star/PostgreSQL-Index-Benchmarking-Framework.git](https://github.com/Eric524-star/PostgreSQL-Index-Benchmarking-Framework.git)
 cd PostgreSQL-Index-Benchmarking-Framework
 pip install -r requirements.txt
+```
 
 ### 2. Database Preparation
 Create an empty database in your PostgreSQL instance (e.g., fyp_database). Run the following SQL to create the target table:
@@ -56,6 +57,5 @@ Open benchmark_runner.py and update the DATABASE SETTINGS section with your actu
 Bash
 python benchmark_runner.py
 
-###  Academic Context
-This framework was developed as the core software artifact for a Final Year Project evaluating relational indexing degradation and write-amplification penalties.
-The framework has been empirically validated to accurately capture the sub-linear retrieval advantages of tree-based structures while exposing their structural maintenance costs.
+### Academic Context
+This framework was developed as the core software artifact for a Final Year Project evaluating relational indexing degradation and write-amplification penalties. The framework has been empirically validated to accurately capture the sub-linear retrieval advantages of tree-based structures while exposing their structural maintenance costs.
