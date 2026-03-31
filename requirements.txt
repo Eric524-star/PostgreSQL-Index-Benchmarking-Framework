@@ -1,0 +1,13 @@
+# Database connectivity
+psycopg2-binary>=2.9.9
+
+# System metrics tracking
+psutil>=5.9.8
+
+# Statistical significance testing
+scipy>=1.12.0
+
+# Data synthesis & array manipulation
+numpy>=1.26.4
+pandas>=2.2.1
+Faker>=24.4.0
