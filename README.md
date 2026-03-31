@@ -58,4 +58,4 @@ Bash
 python benchmark_runner.py
 
 ### Academic Context
-This framework was developed as the core software artifact for a Final Year Project evaluating relational indexing degradation and write-amplification penalties. The framework has been empirically validated to accurately capture the sub-linear retrieval advantages of tree-based structures while exposing their structural maintenance costs.
+This framework was developed as the core software artifact for an academic research study evaluating relational indexing degradation and write-amplification penalties. The framework has been empirically validated to accurately capture the sub-linear retrieval advantages of tree-based structures while exposing their structural maintenance costs.
